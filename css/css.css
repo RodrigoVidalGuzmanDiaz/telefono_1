@@ -2,11 +2,14 @@
     margin: 0;
     padding: 0;
 }
+html{
+    font-size: 10px; 
+}
 .margen{
     margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 90px;
-    font-size: 10px;
+
     
     display: flex;
     flex-direction: column;
@@ -14,8 +17,8 @@
 .div_1{
  
     
-    width: 49em;
-    height: 50em;
+    width: 49rem;
+    height: 50rem;
     background-color: #FE7E4F;
     border: 1px solid black;
     border-radius: 7.5em;
@@ -23,40 +26,40 @@
 .div_2{
 
     
-    width: 45em;
-    height: 24em;
+    width: 45rem;
+    height: 24rem;
     background-color: #FE7E4F;
     border: 1px solid black;
-    border-radius: 7.5em;
-    margin-top: 6.5em;
+    border-radius: 7.5rem;
+    margin-top: 6.5rem;
     align-self: flex-end;
     
 }
 .div_3{
 
     
-    width: 45em;
-    height: 47em;
+    width: 45rem;
+    height: 47rem;
     background-color: #FE7E4F;
     border: 1px solid black;
-    border-radius: 7.5em;
+    border-radius: 7.5rem;
     margin:auto;
-    margin-top: 5em;
+    margin-top: 5rem;
     
 }
 .div_4{
  
     
-    width: 45em;
-    height: 10em;
+    width: 45rem;
+    height: 10rem;
     background-color: #FE7E4F;
     border: 1px solid black;
-    border-radius: 7.5em;
-    margin-top: 7em;
+    border-radius: 7.5rem;
+    margin-top: 7rem;
     align-self: flex-end;
 }
 .div_5{
-    height: 1em;
+    height: 1rem;
     background-color: black;
 }
 .circulos{
@@ -67,9 +70,9 @@
 .div_circulo{
     font-size: 10px;
     
-    width: 13em;
-    height: 13em;
-    margin-top: 1em;
+    width: 13rem;
+    height: 13rem;
+    margin-top: 1rem;
     border-radius: 50%;
     background: #001934;
 }
